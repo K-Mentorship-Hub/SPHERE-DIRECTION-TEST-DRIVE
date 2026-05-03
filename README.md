@@ -1,9 +1,9 @@
-# DIRECTION-TEST-DRIVE
+# SPHERE-DIRECTION-TEST-DRIVE
 
 **Test-drive a career direction before committing.**
 
 [![Org](https://img.shields.io/badge/GitHub-K--Mentorship--Hub-black)](https://github.com/K-Mentorship-Hub)
-[![Type](https://img.shields.io/badge/type-Test%20Drive-orange)](https://github.com/K-Mentorship-Hub/DIRECTION-TEST-DRIVE)
+[![Type](https://img.shields.io/badge/type-Test%20Drive-orange)](https://github.com/K-Mentorship-Hub/SPHERE-DIRECTION-TEST-DRIVE)
 
 *Not sure which path fits you? Don't guess — test it.*
 
@@ -106,4 +106,4 @@ Every mini-quest follows the same format:
 
 ## Public Line
 
-`DIRECTION-TEST-DRIVE` helps people test a career direction with their own hands before committing time and money. No quizzes, no theory overload — just real micro-experiences and honest self-reflection.
+`SPHERE-DIRECTION-TEST-DRIVE` helps people test a career direction with their own hands before committing time and money. No quizzes, no theory overload — just real micro-experiences and honest self-reflection.
